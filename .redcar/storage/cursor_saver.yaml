@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: Guardfile
+    :cursor_offset: 0
+    :timestamp: 2012-11-11 15:28:13 -08:00
+  - :path: spec/requests/static_pages_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2012-11-11 10:31:09 -08:00
+files_to_retain: 0

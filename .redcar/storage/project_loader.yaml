@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - Guardfile
+  - spec/requests/static_pages_spec.rb
